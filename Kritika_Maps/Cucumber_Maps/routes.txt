@@ -1,0 +1,9 @@
+Route Time:3 hr 1 min
+Route Miles:164 miles
+Route Name:I-80 W
+Route Time:3 hr 10 min
+Route Miles:164 miles
+Route Name:CA-99 S and I-80 W
+Route Time:3 hr 13 min
+Route Miles:173 miles
+Route Name:CA-70 S and I-80 W

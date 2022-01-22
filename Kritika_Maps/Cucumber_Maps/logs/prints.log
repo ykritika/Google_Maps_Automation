@@ -1,0 +1,7 @@
+23:09:40.358 [main] INFO  CucumberMaps.Cucumber_Maps.base - Driver is initialized
+23:09:46.021 [main] INFO  CucumberMaps.Cucumber_Maps.base - Navigated to google maps
+23:09:46.897 [main] INFO  CucumberMaps.Cucumber_Maps.base - San Francisco city is searched
+23:09:49.934 [main] INFO  CucumberMaps.Cucumber_Maps.base - Coordinates are equal
+23:09:49.934 [main] INFO  CucumberMaps.Cucumber_Maps.base - coordinates verified
+23:10:01.404 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+23:10:01.404 [AsyncHttpClient-1-3] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3
